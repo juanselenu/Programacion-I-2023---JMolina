@@ -1,0 +1,15 @@
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\Rpaso 1 while solo.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\Rpaso 1 while solo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\Rpaso 1 while solo.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\Rpaso 1 while solo.AssemblyInfo.cs
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\Rpaso 1 while solo.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\bin\Debug\net6.0\Rpaso 1 while solo.exe
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\bin\Debug\net6.0\Rpaso 1 while solo.deps.json
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\bin\Debug\net6.0\Rpaso 1 while solo.runtimeconfig.json
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\bin\Debug\net6.0\Rpaso 1 while solo.dll
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\bin\Debug\net6.0\Rpaso 1 while solo.pdb
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\Rpaso 1 while solo.dll
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\refint\Rpaso 1 while solo.dll
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\Rpaso 1 while solo.pdb
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\Rpaso 1 while solo.genruntimeconfig.cache
+C:\Users\Juan\source\repos\Rpaso 1 while solo\Rpaso 1 while solo\obj\Debug\net6.0\ref\Rpaso 1 while solo.dll
