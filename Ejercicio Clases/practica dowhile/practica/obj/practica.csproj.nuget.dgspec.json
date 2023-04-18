@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan\\source\\repos\\practica\\practica\\practica.csproj": {}
+    "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\practica dowhile\\practica\\practica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan\\source\\repos\\practica\\practica\\practica.csproj": {
+    "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\practica dowhile\\practica\\practica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan\\source\\repos\\practica\\practica\\practica.csproj",
+        "projectUniqueName": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\practica dowhile\\practica\\practica.csproj",
         "projectName": "practica",
-        "projectPath": "C:\\Users\\Juan\\source\\repos\\practica\\practica\\practica.csproj",
+        "projectPath": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\practica dowhile\\practica\\practica.csproj",
         "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan\\source\\repos\\practica\\practica\\obj\\",
+        "outputPath": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\practica dowhile\\practica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
