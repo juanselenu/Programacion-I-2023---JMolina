@@ -13,3 +13,18 @@ C:\Users\Juan\source\repos\Practica For\Practica For\obj\Debug\net6.0\refint\Pra
 C:\Users\Juan\source\repos\Practica For\Practica For\obj\Debug\net6.0\Practica For.pdb
 C:\Users\Juan\source\repos\Practica For\Practica For\obj\Debug\net6.0\Practica For.genruntimeconfig.cache
 C:\Users\Juan\source\repos\Practica For\Practica For\obj\Debug\net6.0\ref\Practica For.dll
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\bin\Debug\net6.0\Practica For.exe
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\bin\Debug\net6.0\Practica For.deps.json
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\bin\Debug\net6.0\Practica For.runtimeconfig.json
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\bin\Debug\net6.0\Practica For.dll
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\bin\Debug\net6.0\Practica For.pdb
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\Practica For.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\Practica For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\Practica For.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\Practica For.AssemblyInfo.cs
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\Practica For.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\Practica For.dll
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\refint\Practica For.dll
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\Practica For.pdb
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\Practica For.genruntimeconfig.cache
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Practica For\Practica For\obj\Debug\net6.0\ref\Practica For.dll

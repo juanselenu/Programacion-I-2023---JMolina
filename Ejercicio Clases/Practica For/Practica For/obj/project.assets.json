@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan\\source\\repos\\Practica For\\Practica For\\Practica For.csproj",
+      "projectUniqueName": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\Practica For\\Practica For\\Practica For.csproj",
       "projectName": "Practica For",
-      "projectPath": "C:\\Users\\Juan\\source\\repos\\Practica For\\Practica For\\Practica For.csproj",
+      "projectPath": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\Practica For\\Practica For\\Practica For.csproj",
       "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan\\source\\repos\\Practica For\\Practica For\\obj\\",
+      "outputPath": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\Practica For\\Practica For\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
