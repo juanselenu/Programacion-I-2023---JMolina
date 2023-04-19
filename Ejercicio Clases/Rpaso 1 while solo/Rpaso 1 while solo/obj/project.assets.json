@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan\\source\\repos\\Rpaso 1 while solo\\Rpaso 1 while solo\\Rpaso 1 while solo.csproj",
+      "projectUniqueName": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\Rpaso 1 while solo\\Rpaso 1 while solo\\Rpaso 1 while solo.csproj",
       "projectName": "Rpaso 1 while solo",
-      "projectPath": "C:\\Users\\Juan\\source\\repos\\Rpaso 1 while solo\\Rpaso 1 while solo\\Rpaso 1 while solo.csproj",
+      "projectPath": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\Rpaso 1 while solo\\Rpaso 1 while solo\\Rpaso 1 while solo.csproj",
       "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan\\source\\repos\\Rpaso 1 while solo\\Rpaso 1 while solo\\obj\\",
+      "outputPath": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\Rpaso 1 while solo\\Rpaso 1 while solo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
