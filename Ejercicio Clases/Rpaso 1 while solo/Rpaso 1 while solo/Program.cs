@@ -86,12 +86,65 @@ while (Costo != 0)
     string totala = Console.ReadLine();
     Total = int.Parse(totala);
 
-
-
 }
 sumatotal = sumat + sumac;
 Console.WriteLine("El total es:" + sumatotal);
 */
 
-// Ej numero 5 se comlico el asunto 
 
+// Ej numero 4 pero Bien interpretado 
+
+/*
+ Console.WriteLine("Porfa ingreseme el costo");
+string costo = Console.ReadLine();
+int costoNum = int.Parse(costo);
+int sumita = 0 ;
+
+while (costoNum > 0)
+{
+
+    Console.WriteLine("Ahora poneme el total");
+    string total = Console.ReadLine();
+    int totalNum = int.Parse(total);
+
+    // En estancia yo ya tengo ingresado al menos 1 par de costo y total
+    // así ´que acá sería un buen momento de hacer mi proceso
+    sumita = sumita  + (costoNum * totalNum);
+
+    Console.WriteLine("Porfa ingreseme el costo");
+    costo = Console.ReadLine();
+    costoNum = int.Parse(costo);
+}
+
+Console.WriteLine("Flaco , pusiste: " + sumita);
+
+ */
+
+
+
+
+// ej 5 ( con for) afanado de la clase. 
+/*
+ Console.WriteLine("Porfa ingreseme el costo");
+string costo = Console.ReadLine();
+int costoNum = int.Parse(costo);
+int sumita = 0 ;
+
+while (costoNum > 0)
+{
+
+    Console.WriteLine("Ahora poneme el total");
+    string total = Console.ReadLine();
+    int totalNum = int.Parse(total);
+
+    // En estancia yo ya tengo ingresado al menos 1 par de costo y total
+    // así ´que acá sería un buen momento de hacer mi proceso
+    sumita = sumita  + (costoNum * totalNum);
+
+    Console.WriteLine("Porfa ingreseme el costo");
+    costo = Console.ReadLine();
+    costoNum = int.Parse(costo);
+}
+
+Console.WriteLine("Flaco , pusiste: " + sumita);
+*/
