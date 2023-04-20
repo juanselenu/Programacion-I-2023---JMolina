@@ -1,0 +1,15 @@
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\bin\Debug\net6.0\repaso 2.exe
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\bin\Debug\net6.0\repaso 2.deps.json
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\bin\Debug\net6.0\repaso 2.runtimeconfig.json
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\bin\Debug\net6.0\repaso 2.dll
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\bin\Debug\net6.0\repaso 2.pdb
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\repaso 2.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\repaso 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\repaso 2.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\repaso 2.AssemblyInfo.cs
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\repaso 2.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\repaso 2.dll
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\refint\repaso 2.dll
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\repaso 2.pdb
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\repaso 2.genruntimeconfig.cache
+C:\Users\Juan\Documents\GitHub\Programacion-I-2023---JMolina\Ejercicio Clases\Repaso 2\repaso 2\repaso 2\obj\Debug\net6.0\ref\repaso 2.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan\\source\\repos\\repaso 2\\repaso 2\\repaso 2.csproj",
+      "projectUniqueName": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\Repaso 2\\repaso 2\\repaso 2\\repaso 2.csproj",
       "projectName": "repaso 2",
-      "projectPath": "C:\\Users\\Juan\\source\\repos\\repaso 2\\repaso 2\\repaso 2.csproj",
+      "projectPath": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\Repaso 2\\repaso 2\\repaso 2\\repaso 2.csproj",
       "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan\\source\\repos\\repaso 2\\repaso 2\\obj\\",
+      "outputPath": "C:\\Users\\Juan\\Documents\\GitHub\\Programacion-I-2023---JMolina\\Ejercicio Clases\\Repaso 2\\repaso 2\\repaso 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
