@@ -1,0 +1,14 @@
+C:\Users\Juan\source\repos\super 1-6\super 1-6\obj\Debug\super 1-6.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\super 1-6\super 1-6\obj\Debug\super 1-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan\source\repos\super 1-6\super 1-6\obj\Debug\super_1_6.Form1.resources
+C:\Users\Juan\source\repos\super 1-6\super 1-6\obj\Debug\super_1_6.Properties.Resources.resources
+C:\Users\Juan\source\repos\super 1-6\super 1-6\obj\Debug\super 1-6.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\super 1-6\super 1-6\obj\Debug\super 1-6.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\super 1-6\super 1-6\bin\Debug\super 1-6.exe.config
+C:\Users\Juan\source\repos\super 1-6\super 1-6\bin\Debug\super 1-6.exe
+C:\Users\Juan\source\repos\super 1-6\super 1-6\bin\Debug\super 1-6.pdb
+C:\Users\Juan\source\repos\super 1-6\super 1-6\bin\Debug\ClassLibrary1.dll
+C:\Users\Juan\source\repos\super 1-6\super 1-6\bin\Debug\ClassLibrary1.pdb
+C:\Users\Juan\source\repos\super 1-6\super 1-6\obj\Debug\super 1-6.csproj.CopyComplete
+C:\Users\Juan\source\repos\super 1-6\super 1-6\obj\Debug\super 1-6.exe
+C:\Users\Juan\source\repos\super 1-6\super 1-6\obj\Debug\super 1-6.pdb
