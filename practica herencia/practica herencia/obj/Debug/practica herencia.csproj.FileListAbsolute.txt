@@ -1,0 +1,14 @@
+C:\Users\Juan\source\repos\practica herencia\practica herencia\bin\Debug\practica herencia.exe.config
+C:\Users\Juan\source\repos\practica herencia\practica herencia\bin\Debug\practica herencia.exe
+C:\Users\Juan\source\repos\practica herencia\practica herencia\bin\Debug\practica herencia.pdb
+C:\Users\Juan\source\repos\practica herencia\practica herencia\bin\Debug\ClassLibrary1.dll
+C:\Users\Juan\source\repos\practica herencia\practica herencia\bin\Debug\ClassLibrary1.pdb
+C:\Users\Juan\source\repos\practica herencia\practica herencia\obj\Debug\practica herencia.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\practica herencia\practica herencia\obj\Debug\practica herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan\source\repos\practica herencia\practica herencia\obj\Debug\practica_herencia.Form1.resources
+C:\Users\Juan\source\repos\practica herencia\practica herencia\obj\Debug\practica_herencia.Properties.Resources.resources
+C:\Users\Juan\source\repos\practica herencia\practica herencia\obj\Debug\practica herencia.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\practica herencia\practica herencia\obj\Debug\practica herencia.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\practica herencia\practica herencia\obj\Debug\practica herencia.csproj.CopyComplete
+C:\Users\Juan\source\repos\practica herencia\practica herencia\obj\Debug\practica herencia.exe
+C:\Users\Juan\source\repos\practica herencia\practica herencia\obj\Debug\practica herencia.pdb
